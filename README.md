@@ -26,5 +26,4 @@ You should add here your authentication token (JWT or cookie).
 Personally, using the cookie session token is enough for me for now.  
 E.g.: `cookie:cloud.session.token=eyJraWQiOiJj...`.  
 
-I'm using the workflow on macOS.  
 It also need [jq](https://stedolan.github.io/jq/) to be installed.   
