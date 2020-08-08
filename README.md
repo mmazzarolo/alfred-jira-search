@@ -20,7 +20,7 @@ The workflow setup still has a huge margin for improvement: I haven't built an a
 
 __A `domain` variable__  
 Part of the Jira URL.
-E.g. `https://${domain}.atlassian.net`). 
+E.g. (`https://${domain}.atlassian.net`). 
 
 __An `apitoken` variable__  
 The jira API token to use for authentication.
