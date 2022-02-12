@@ -13,6 +13,8 @@ An Alfred workflow to search for Jira tickets.
 * Under the hood the workflow uses the [`/rest/api/3/issue/picker`](https://developer.atlassian.com/cloud/jira/platform/rest/v3/?utm_source=%2Fcloud%2Fjira%2Fplatform%2Frest%2F&utm_medium=302#api-rest-api-3-issue-picker-get) endpoint to return a list of issues matching the Alfred query.  
 * It's smart enough to return a list of issues if you're query is a word, or a specific issue if your query is a ticket number.  
 
+⚠️ Disclaimer: I'm no longer actively maintaining this script — I stopped using Alfred and I'm now using [Raycast](https://www.raycast.com/). 
+
 ---
 
 The workflow setup still has a huge margin for improvement: I haven't built an authentication flow, so it  requires some manual setup (that I abstracted into three workflow environment variables).   
