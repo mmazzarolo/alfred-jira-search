@@ -1,3 +1,5 @@
+### ⚠️ Disclaimer: I'm no longer actively maintaining this script — I stopped using Alfred and I'm now using [Raycast](https://www.raycast.com/). 
+
 # alfred-jira-search
 An Alfred workflow to search for Jira tickets.
 
